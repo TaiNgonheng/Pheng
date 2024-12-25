@@ -157,7 +157,7 @@ export default function MedicalPortfolio() {
                   className="flex justify-center"
               >
                 <img
-                    src="https://media4.giphy.com/media/WQl8IoRKEomXxZb8Vs/giphy.gif?cid=6c09b9528cb2npxccutpw334dwhnab3dwry5i300bpkuujpi&ep=v1_gifs_search&rid=giphy.gif&ct=g"
+                    src="https://cdn.dribbble.com/users/1518775/screenshots/15430153/media/4eea7d352f0a534c535717ed35f11b38.gif"
                     alt="Medical Animation"
                     className="rounded-lg max-w-full h-auto"
                 />
@@ -235,7 +235,7 @@ export default function MedicalPortfolio() {
                 <Card className="dark:bg-gray-800">
                   <CardContent className="p-6">
                     <h3 className="font-semibold mb-2">Clinical Research</h3>
-                    <p className="text-sm text-gray-500 dark:text-gray-300 mb-4 text-sm">
+                    <p className="text-sm text-gray-500 dark:text-gray-300 mb-4">
                       Led multiple clinical trials focusing on innovative drug therapies and treatment methodologies.
                       Conducted research on the efficacy of new antibiotics in treating resistant bacterial strains.
                     </p>
